@@ -1,0 +1,5 @@
+ 	 	 	 	Beach
+			CyclopsRoom	Cave
+ 	 	 	Cave
+ 	 	 	Treasure
+Traitor	Treasure	StartingIsland	Treasure	FindDaggerRoom
